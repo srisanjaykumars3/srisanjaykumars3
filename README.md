@@ -1,71 +1,129 @@
-# Hi there 👋, I'm Srisanjaykumar S
+<h1 align="center">Hi 👋, I'm Srisanjaykumar S</h1>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 🎓 B.Tech IT Student from India</h3>
 
-## 🚀 About Me
-- 🎓 B.Tech Information Technology Student
-- 💻 Full Stack Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 🌱 Currently learning React, Spring Boot, Node.js, MongoDB & AI
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Spring+Boot;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Languages
-- Java
-- C++
-- JavaScript
-- Python
-- SQL
+- 🎓 B.Tech Information Technology Student
+- 💻 Passionate Full Stack Developer
+- 🤖 Interested in AI, Machine Learning & Cloud Computing
+- 🌱 Currently learning React, Spring Boot, Node.js & MongoDB
+- 🚀 Building real-world applications
+- 📍 Madurai, Tamil Nadu, India
+
+---
+
+## 🌐 Connect with Me
+
+📧 **Email:** srisanjaykumar.s3@gmail.com
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,c,mysql"/>
+</p>
 
 ### Frontend
-- React
-- HTML5
-- CSS3
-- Tailwind CSS
-- Vite
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+</p>
 
 ### Backend
-- Node.js
-- Express.js
-- Spring Boot
-- REST API
 
-### Database
-- MongoDB
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb"/>
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- IntelliJ IDEA
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 Arivan AI Platform
-AI Assistant built with:
-- React
-- Node.js
-- Express.js
-- MongoDB Atlas
-- Groq AI
-- JWT Authentication
+## 🤖 Arivan AI Platform
 
-### 🛒 Flash Sale Platform
-Full Stack E-Commerce Application
+✔ AI Chat Assistant
 
-### 💼 Salary Management System
-Java-based employee salary management project.
+✔ React + Vite
 
----
+✔ Node.js + Express
 
-## 📫 Contact
+✔ MongoDB Atlas
 
-📧 Email: **srisanjaykumar.s3@gmail.com**
+✔ JWT Authentication
+
+✔ Groq AI API
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🛒 Flash Sale Platform
+
+✔ Full Stack E-Commerce
+
+✔ Secure Login
+
+✔ Product Management
+
+✔ Admin Dashboard
+
+---
+
+## 💼 Salary Management System
+
+✔ Java Project
+
+✔ Employee Management
+
+✔ Payroll System
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=srisanjaykumars3&theme=tokyonight&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=srisanjaykumars3&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srisanjaykumars3&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=srisanjaykumars3&theme=algolia&no-frame=true&margin-w=10)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=srisanjaykumars3&theme=react-dark)
+
+---
+
+## 💡 Quote
+
+> "Success is built through continuous learning, consistency, and solving real-world problems."
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting my profile!
+
+If you like my projects, don't forget to ⭐ them.
+
+</div>
