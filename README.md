@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srisanjaykumar S</h1>
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 🎓 B.Tech IT Student from India</h3>
+<h3 align="center">🚀 | 👩‍💻 Software Engineer |</> 💾🌐🖥️Full Stack Developer  | 🤖 AI Enthusiast | 🎓 B.Tech IT Student from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Spring+Boot;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
