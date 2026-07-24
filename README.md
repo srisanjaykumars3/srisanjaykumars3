@@ -82,32 +82,6 @@
 
 ---
 
-## 💼 Salary Management System
-
-✔ Java Project
-
-✔ Employee Management
-
-✔ Payroll System
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=srisanjaykumars3&theme=tokyonight&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=srisanjaykumars3&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srisanjaykumars3&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=srisanjaykumars3&theme=algolia&no-frame=true&margin-w=10)
-
----
-
 # 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=srisanjaykumars3&theme=react-dark)
