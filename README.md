@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi there 👋, I'm Srisanjaykumar S
 
-<!--
-**srisanjaykumars3/srisanjaykumars3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 B.Tech Information Technology Student
+- 💻 Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🌱 Currently learning React, Spring Boot, Node.js, MongoDB & AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- C++
+- JavaScript
+- Python
+- SQL
+
+### Frontend
+- React
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vite
+
+### Backend
+- Node.js
+- Express.js
+- Spring Boot
+- REST API
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- IntelliJ IDEA
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Arivan AI Platform
+AI Assistant built with:
+- React
+- Node.js
+- Express.js
+- MongoDB Atlas
+- Groq AI
+- JWT Authentication
+
+### 🛒 Flash Sale Platform
+Full Stack E-Commerce Application
+
+### 💼 Salary Management System
+Java-based employee salary management project.
+
+---
+
+## 📫 Contact
+
+📧 Email: **srisanjaykumar.s3@gmail.com**
+
+---
+
+⭐ Thanks for visiting my profile!
